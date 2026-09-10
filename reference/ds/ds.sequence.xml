@@ -50,10 +50,10 @@
 
     <classsynopsisinfo role="comment">&InheritedMethods;</classsynopsisinfo>
     <xi:include xpointer="xmlns(db=http://docbook.org/ns/docbook) xpointer(id('class.ds-collection')/db:refentry/db:refsect1[@role='description']/descendant::db:methodsynopsis[not(@role='procedural')])"/>
-    <xi:include xpointer="xmlns(db=http://docbook.org/ns/docbook) xpointer(id('class.countable')/db:refentry/db:refsect1[@role='description']/descendant::db:methodsynopsis[not(@role='procedural') and not(modifier='private')])"/>
-    <xi:include xpointer="xmlns(db=http://docbook.org/ns/docbook) xpointer(id('class.iteratoraggregate')/db:refentry/db:refsect1[@role='description']/descendant::db:methodsynopsis[not(@role='procedural') and not(modifier='private')])"/>
-    <xi:include xpointer="xmlns(db=http://docbook.org/ns/docbook) xpointer(id('class.jsonserializable')/db:refentry/db:refsect1[@role='description']/descendant::db:methodsynopsis[not(@role='procedural') and not(modifier='private')])"/>
-    <xi:include xpointer="xmlns(db=http://docbook.org/ns/docbook) xpointer(id('class.arrayaccess')/db:refentry/db:refsect1[@role='description']/descendant::db:methodsynopsis[not(@role='procedural') and not(modifier='private')])"/>
+    &class.countable.methods;
+    &class.iteratoraggregate.methods;
+    &class.jsonserializable.methods;
+    &class.arrayaccess.methods;
 
    </classsynopsis>
 
