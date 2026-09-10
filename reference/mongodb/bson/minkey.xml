@@ -46,7 +46,7 @@
      </oointerface>
 
      <oointerface>
-      <interfacename>JsonSerializable</interfacename>
+      <interfacename xlink:href="&url.php.manual.class.jsonserializable;">JsonSerializable</interfacename>
      </oointerface>
     </classsynopsisinfo>
 <!-- }}} -->

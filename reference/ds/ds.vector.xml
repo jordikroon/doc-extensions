@@ -62,7 +62,7 @@
 
     <ooclass><classname>Ds\Vector</classname></ooclass>
     <oointerface><interfacename>Ds\Sequence</interfacename></oointerface>
-    <oointerface><interfacename>ArrayAccess</interfacename></oointerface>
+    <oointerface><interfacename xlink:href="&url.php.manual.class.arrayaccess;">ArrayAccess</interfacename></oointerface>
 
     </classsynopsisinfo>
 

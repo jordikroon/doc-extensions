@@ -68,7 +68,7 @@
       <interfacename>Ds\Collection</interfacename>
      </oointerface>
      <oointerface>
-      <interfacename>ArrayAccess</interfacename>
+      <interfacename xlink:href="&url.php.manual.class.arrayaccess;">ArrayAccess</interfacename>
      </oointerface>
     </classsynopsisinfo>
 

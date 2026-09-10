@@ -25,13 +25,13 @@
 
     <oointerface>
      <modifier>extends</modifier>
-     <interfacename>Countable</interfacename>
+     <interfacename xlink:href="&url.php.manual.class.countable;">Countable</interfacename>
     </oointerface>
     <oointerface>
-     <interfacename>IteratorAggregate</interfacename>
+     <interfacename xlink:href="&url.php.manual.class.iteratoraggregate;">IteratorAggregate</interfacename>
     </oointerface>
     <oointerface>
-     <interfacename>JsonSerializable</interfacename>
+     <interfacename xlink:href="&url.php.manual.class.jsonserializable;">JsonSerializable</interfacename>
     </oointerface>
 
     <classsynopsisinfo role="comment">&Methods;</classsynopsisinfo>

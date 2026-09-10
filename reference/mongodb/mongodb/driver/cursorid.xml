@@ -42,11 +42,11 @@
      </ooclass>
 
      <oointerface>
-      <interfacename>Serializable</interfacename>
+      <interfacename xlink:href="&url.php.manual.class.serializable;">Serializable</interfacename>
      </oointerface>
 
      <oointerface>
-      <interfacename>Stringable</interfacename>
+      <interfacename xlink:href="&url.php.manual.class.stringable;">Stringable</interfacename>
      </oointerface>
     </classsynopsisinfo>
 <!-- }}} -->

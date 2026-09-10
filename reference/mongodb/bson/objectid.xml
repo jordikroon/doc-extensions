@@ -62,11 +62,11 @@
      </oointerface>
 
      <oointerface>
-      <interfacename>JsonSerializable</interfacename>
+      <interfacename xlink:href="&url.php.manual.class.jsonserializable;">JsonSerializable</interfacename>
      </oointerface>
 
      <oointerface>
-      <interfacename>Stringable</interfacename>
+      <interfacename xlink:href="&url.php.manual.class.stringable;">Stringable</interfacename>
      </oointerface>
     </classsynopsisinfo>
 <!-- }}} -->

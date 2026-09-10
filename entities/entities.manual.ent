@@ -34,11 +34,15 @@ URLs rather than linkends. Any links to other manual books should live here.
 <entity name="url.php.manual.class.error">&url.php.manual;class.error.php</entity>
 <entity name="url.php.manual.class.exception">&url.php.manual;class.exception.php</entity>
 <entity name="url.php.manual.class.invalidargumentexception">&url.php.manual;class.invalidargumentexception.php</entity>
+<entity name="url.php.manual.class.iterator">&url.php.manual;class.iterator.php</entity>
 <entity name="url.php.manual.class.iteratoraggregate">&url.php.manual;class.iteratoraggregate.php</entity>
 <entity name="url.php.manual.class.jsonserializable">&url.php.manual;class.jsonserializable.php</entity>
 <entity name="url.php.manual.class.logicexception">&url.php.manual;class.logicexception.php</entity>
 <entity name="url.php.manual.class.runtimeexception">&url.php.manual;class.runtimeexception.php</entity>
+<entity name="url.php.manual.class.serializable">&url.php.manual;class.serializable.php</entity>
+<entity name="url.php.manual.class.stringable">&url.php.manual;class.stringable.php</entity>
 <entity name="url.php.manual.class.throwable">&url.php.manual;class.throwable.php</entity>
+<entity name="url.php.manual.class.traversable">&url.php.manual;class.traversable.php</entity>
 <entity name="url.php.manual.class.unexpectedvalueexception">&url.php.manual;class.unexpectedvalueexception.php</entity>
 <entity name="url.php.manual.class.valueerror">&url.php.manual;class.valueerror.php</entity>
 <entity name="url.php.manual.configuration.changes.modes">&url.php.manual;configuration.changes.modes.php</entity>
