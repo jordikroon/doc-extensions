@@ -13,7 +13,7 @@
    <simpara>
     <classname>Collection</classname> is the base interface which covers functionality
     common to all the data structures in this library. It guarantees that all structures
-    are traversable, countable, and can be converted to json using <function>json_encode</function>.
+    are traversable, countable, and can be converted to json using <function xlink:href="&url.php.manual.function.json-encode;">json_encode</function>.
    </simpara>
   </section>
 
@@ -61,7 +61,7 @@
        <entry>PECL ds 1.4.0</entry>
        <entry>
         <classname>Collection</classname> implements
-        <interfacename>IteratorAggregate</interfacename> now instead of just <interfacename>Traversable</interfacename>. (This change came to the polyfill in 1.4.1.)
+        <interfacename xlink:href="&url.php.manual.class.iteratoraggregate;">IteratorAggregate</interfacename> now instead of just <interfacename xlink:href="&url.php.manual.class.traversable;">Traversable</interfacename>. (This change came to the polyfill in 1.4.1.)
        </entry>
       </row>
      </tbody>

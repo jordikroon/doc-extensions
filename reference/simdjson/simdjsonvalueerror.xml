@@ -61,8 +61,8 @@
       <row>
        <entry>PHP 8.0.0</entry>
        <entry>
-        <classname>SimdJsonValueError</classname> extends <classname>ValueError</classname>
-        now instead of <classname>Error</classname>.
+        <classname>SimdJsonValueError</classname> extends <classname xlink:href="&url.php.manual.class.valueerror;">ValueError</classname>
+        now instead of <classname xlink:href="&url.php.manual.class.error;">Error</classname>.
        </entry>
       </row>
      </tbody>

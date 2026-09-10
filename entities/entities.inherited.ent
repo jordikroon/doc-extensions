@@ -252,7 +252,7 @@ See doc-base/scripts/text-entities.php for details.
 
 <entity name="class.iteratoraggregate.methods">
     <methodsynopsis role="IteratorAggregate">
-     <modifier>public</modifier> <type>Traversable</type><methodname xlink:href="&url.php.manual.iteratoraggregate.getiterator;">IteratorAggregate::getIterator</methodname>
+     <modifier>public</modifier> <type xlink:href="&url.php.manual.class.traversable;">Traversable</type><methodname xlink:href="&url.php.manual.iteratoraggregate.getiterator;">IteratorAggregate::getIterator</methodname>
      <void/>
     </methodsynopsis>
 </entity>

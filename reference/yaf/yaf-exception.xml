@@ -16,8 +16,8 @@
     thrown by Yaf. Every other Yaf exception class extends it.
    </simpara>
    <simpara>
-    It extends <exceptionname>RuntimeException</exceptionname> when the SPL extension is
-    loaded, and the built-in <exceptionname>Exception</exceptionname> otherwise.
+    It extends <exceptionname xlink:href="&url.php.manual.class.runtimeexception;">RuntimeException</exceptionname> when the SPL extension is
+    loaded, and the built-in <exceptionname xlink:href="&url.php.manual.class.exception;">Exception</exceptionname> otherwise.
     Exceptions raised by Yaf carry an error code that identifies the type of
     failure.
    </simpara>

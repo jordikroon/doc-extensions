@@ -24,8 +24,8 @@
         <simplelist>
             <member>Wherever you would use an array as a list (not concerned with keys).</member>
             <member>A more efficient alternative to
-                <classname>SplDoublyLinkedList</classname> and
-                <classname>SplFixedArray</classname>.
+                <classname xlink:href="&url.php.manual.class.spldoublylinkedlist;">SplDoublyLinkedList</classname> and
+                <classname xlink:href="&url.php.manual.class.splfixedarray;">SplFixedArray</classname>.
             </member>
         </simplelist>
    </para>
@@ -74,7 +74,7 @@
        <row>
         <entry>PECL ds 1.3.0</entry>
         <entry>
-         The interface now extends <classname>ArrayAccess</classname>.
+         The interface now extends <classname xlink:href="&url.php.manual.class.arrayaccess;">ArrayAccess</classname>.
         </entry>
        </row>
       </tbody>
