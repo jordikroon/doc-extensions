@@ -19,7 +19,7 @@
    with no flags set.
   </simpara>
   <warning>
-   <xi:include xpointer="xmlns(db=http://docbook.org/ns/docbook)                           xpointer(id('eventbase.intro')/db:warning/db:para)"/>
+   <xi:include xpointer="xmlns(db=http://docbook.org/ns/docbook)                           xpointer(id('eventbase.intro')/db:warning/db:simpara)"/>
   </warning>
  </refsect1>
  <refsect1 role="parameters">
