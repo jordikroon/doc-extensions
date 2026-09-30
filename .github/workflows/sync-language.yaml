@@ -19,7 +19,6 @@ jobs:
   sync-language:
     name: "Sync language/ with php/doc-en"
     runs-on: "ubuntu-latest"
-    if: "github.repository_owner == 'php'"
 
     permissions:
       contents: "write"
